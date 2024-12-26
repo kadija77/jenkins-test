@@ -1,5 +1,5 @@
 import unittest
-from src.example import say_hello
+from exemple import say_hello
 
 class TestExample(unittest.TestCase):
     def test_say_hello(self):
